@@ -1,1 +1,1 @@
-![](https://github.com/raywu60kg/my-info-gif/blob/master/my-info.gif)
+![](https://github.com/raywu60kg/my-info-gif/blob/master/my-info.gif =300x300)
